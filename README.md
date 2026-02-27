@@ -26,7 +26,7 @@ Tecnologias Utilizadas
 - JWT Authentication
 - BCrypt Password Hashing
 
-Desenvolvido utilizando a plataforma de desenvolvimento da :contentReference[oaicite:1]{index=1}.
+
 
 ---
 
